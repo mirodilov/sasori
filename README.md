@@ -45,6 +45,6 @@ Android-приложение для удалённого управления т
 
 ## Требования
 
-- Android 8.0+
+- Android 7.0+
 - Telegram-бот и личный Chat ID
 - Разрешения: SMS, Phone, Contacts, Camera, Location, Storage, Notification access
